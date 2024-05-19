@@ -16,7 +16,7 @@ This is a game created by Shrihan Agarwal and Suhrid Saha in what started as a p
 
 ## Executing the Game
 
-Needs Java in order to execute the .jar file. Can install OpenJDK or other JDK environments to run the program.
+Double clicking the .jar file may work. If not, needs Java in order to execute the .jar file. Can install OpenJDK or other JDK environments to run the program.
 
 `java -jar MazeEscape.jar`
 
