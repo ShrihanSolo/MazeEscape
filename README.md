@@ -1,4 +1,5 @@
 # MazeEscape
+By Shrihan Agarwal and Suhrid Saha
 
 #### _Can you escape the maze?_  
 You awaken in the dark.   
@@ -10,6 +11,7 @@ But every footstep you take, and the haunting sound of stalking ghosts draws eve
 
 <img width="1133" alt="image" src="https://github.com/ShrihanSolo/MazeEscape/assets/69968384/20e06126-e817-45bf-bfa3-b38fe72d4969">
 
+  
 This is a game created by Shrihan Agarwal and Suhrid Saha in what started as a project for university class CS 61B at Berkeley. This uses code from the CS 61B team, as well as standard libraries from Princeton.
 
 ## Executing the Game
