@@ -32,7 +32,7 @@ C - Customize
 Type in a number as seed and hit S to start.
 
 #### In Game:  
-WASD - Move up/left/down/right. 
+WASD - Move up/left/down/right.   
 F - Toggle Flashlight (Invisible to Ghosts)  
 Cursor - May help you find ghosts hiding.  
 
