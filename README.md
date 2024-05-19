@@ -21,21 +21,21 @@ Needs Java in order to execute the .jar file. Can install OpenJDK or other JDK e
 
 ## Keybindings
 
-#### Main Menu:  
-N - Start New Game
-L - Load Past Game (may not be functional)
-C - Customize
-:Q - Quit Game
-
+#### Main Menu:    
+N - Start New Game.   
+L - Load Past Game (may not be functional)  
+C - Customize  
+:Q - Quit Game  
+    
 Type in a number as seed and hit S to start.
 
-#### In Game:
-WASD - Move up/left/down/right
-F - Toggle Flashlight (Invisible to Ghosts)
-Cursor - May help you find ghosts hiding.
+#### In Game:  
+WASD - Move up/left/down/right. 
+F - Toggle Flashlight (Invisible to Ghosts)  
+Cursor - May help you find ghosts hiding.  
 
-
-#### Customization:
-Difficulty - Scale number of ghosts by typing in a number.
-Color - Blue, White, Red
-Brightness - High, Medium, Low
+  
+#### Customization:  
+Difficulty - Scale number of ghosts by typing in a number.  
+Color - Blue, White, Red.   
+Brightness - High, Medium, Low  
